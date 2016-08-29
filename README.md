@@ -1,22 +1,19 @@
 
-**CAITLIN MILLER**
-==============
+# **CAITLIN MILLER**
 
 millercaitlin16@gmail.com  
 (925) 519-0145 ~ 5618 Ramsgate Court ~ Dublin, CA
-___
+***
 
 
 ### EXPERIENCE 
-</center>
 
 **swissnex San Francisco, August 2014 - present**  
 *Director of First Impressions in San Francisco, CA*  
 - Contribute to development of visitor welcome experience at new company location, including guest reception and integration of Envoy  
 - Assist with events management and production for both hosted and internal events  
 - Support admin team with logistics research, ordering, and data entry
-
-
+  
 **Teaching Assistant Program in France (TAPIF), September 2014 - May 2016**  
 *English Language Teaching Assistant in Paris area, France*  
 - Marcel Cachin High School 2015-2016; Antoine de St. Exupery High School 2014-2015  
@@ -29,7 +26,6 @@ ___
 - Provided structured grammar and writing lessons in addition to exclusively English conversation to maximize language immersion  
 - Prepared graduating high school seniors for intensive speaking exam  
 - Developed strong personal and professional relationships with parents and students founded from history of reliability and mutual trust  
-
 
 **E.V. Roberts, August 2013 - July 2014**  
 *Customer Service Representative in Carson, CA*  
@@ -47,8 +43,9 @@ ___
 - Assessed skills of staff and instituted a retraining program  
 - Interviewed, hired, and trained new cashiers
 
-<center>
-### EDUCATION</center>
+***
+
+### EDUCATION
 
 **University of California at Los Angeles**  
 *Bachelor of Science in Chemistry, Concentration in Physical Chemistry*  
@@ -58,9 +55,10 @@ Dean's Honors List four quarters
 **International Studies Abroad Program at Catholic University of Paris**  
 *Studies in French Language Culture*  
 Completed September - December 2011 with 4.0/4.0 GPA
+***
 
-<center>
-### SKILLS </center>
+### SKILLS
 
 **Language:** Advanced French  
+
 **Computer:** Proficient in Microsoft Office (Word, Excel, Powerpoint, Outlook), iWork (Pages, Numbers, Keynote), Google (Drive, Docs, Sheets, Calendar), Social Media (Facebook, Instagram)
